@@ -9,11 +9,8 @@ Step into the world of a multi-faceted and accomplished professional, where the 
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [https://www.behance.net/ayushkatiya](http://www.freelancer.com/u/ayushkatiya2003)
 * ✉️  You can contact me at [ayushkatiya@gmail.com](mailto:ayushkatiya@gmail.com)
-* 🧠  I'm learning in-depth redux concepts
+* 🧠  I'm learning Dart and Golang
 * 🤝  I'm open to collaborating on Full stack web development project
-
-<a href="https://www.github.com/AyushKatiya20322" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AyushKatiya20322?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
