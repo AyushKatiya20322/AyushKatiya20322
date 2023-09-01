@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush Katiya
 ====================================================================================================================================
 
-Web Developer and Graphic Designer
+ React-native, Web Developer and Graphic Designer
 ----------------------------------
 
 Step into the world of a multi-faceted and accomplished professional, where the boundaries of innovation and creativity know no limits. I, a versatile and visionary individual whose skill set transcends the ordinary and ventures into the realm of extraordinary. Embarking on a journey that combines the elegance of graphic design, the complexity of machine learning, the magic of robotic process automation, and the artistry of full-stack web development, i have crafted a career that stands as a true testament to the power of passion and dedication. At the core of my expertise lies the realm of Full Stack Web Development - the harmonious blend of front-end enchantment and back-end mastery. With a keen eye for user experience and a profound understanding of cutting-edge technologies, i have transformed the digital landscape, creating websites and applications that not only mesmerize aesthetically but also seamlessly function, ensuring an unparalleled experience for every user. Beyond the world of web development, I delves into the realm of Machine Learning - a realm where data comes to life, and patterns become revelations. Armed with a profound understanding of algorithms, data modeling, and artificial intelligence,i have harnessed the potential of machine learning to unravel complex challenges across industries.
