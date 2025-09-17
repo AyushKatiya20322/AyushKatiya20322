@@ -1,61 +1,113 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush Katiya
-====================================================================================================================================
+<img align="right" width="250" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>
 
- React-Native, Web Developer and Graphic Designer
-----------------------------------
+# Hey there, I'm Ayush Katiya 👋
 
-Step into the world of a multi-faceted and accomplished professional, where the boundaries of innovation and creativity know no limits. I, a versatile and visionary individual whose skill set transcends the ordinary and ventures into the realm of extraordinary. Embarking on a journey that combines the elegance of graphic design, the complexity of machine learning, the magic of robotic process automation, and the artistry of full-stack web development, i have crafted a career that stands as a true testament to the power of passion and dedication. At the core of my expertise lies the realm of Full Stack Web Development - the harmonious blend of front-end enchantment and back-end mastery. With a keen eye for user experience and a profound understanding of cutting-edge technologies, i have transformed the digital landscape, creating websites and applications that not only mesmerize aesthetically but also seamlessly function, ensuring an unparalleled experience for every user. Beyond the world of web development, I delves into the realm of Machine Learning - a realm where data comes to life, and patterns become revelations. Armed with a profound understanding of algorithms, data modeling, and artificial intelligence,i have harnessed the potential of machine learning to unravel complex challenges across industries.
+**MS in Robotics (ASU, USA) | AI/ML Researcher | Full Stack Web & Mobile Developer | Multimedia Content Creator**  
+_Specializing in intelligent automation, digital innovation, and impactful design._
 
-* 🌍  I'm based in INDIA
-* 🖥️  See my portfolio at [https://www.behance.net/ayushkatiya](http://www.freelancer.com/u/ayushkatiya2003)
-* ✉️  You can contact me at [ayushkatiya@gmail.com](mailto:ayushkatiya@gmail.com)
-* 🧠  I'm learning Dart and Golang
-* 🤝  I'm open to collaborating on Full stack web development project
+---
 
-### Skills
+#### 🚀 _Pushing Boundaries at the Intersection of Technology, AI, and Creative Media_
 
+I'm a multidisciplinary professional with a U.S.-based MS in Robotics (Arizona State University), passionate about transforming ideas into intelligent, beautiful, and efficient digital products. My journey spans ML research, automation, full-stack development, technical business analysis, and cross-cultural digital media design.
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
+---
 
+## 🔥 Professional Journey
 
-### Socials
+- **Business Analyst Intern - Finlatics (2025)**
+  - Delivered data-driven business process improvements for executive teams
+  - Automated workflows and reporting, increasing decision efficiency
 
-<p align="left"> <a href="https://www.behance.com/ayushkatiya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/AyushKatiya20322" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+- **Data Science Intern - Finlatics (2024)**
+  - Built interactive ML dashboards for real-time business intelligence
+  - End-to-end deployment of predictive models in collaboration with diverse teams
 
-### Badges
+- **Data Science Intern - ArtifIntel (2022)**
+  - Processed and engineered ML solutions for client R&D, unlocking actionable insights
 
-<b>My GitHub Stats</b>
+- **Freelance Graphic & Multimedia Designer [2020–2022]**
+  - 30+ successful projects, boosting client engagement through branding, digital illustration, and video design
 
+---
 
+## 🏅 _Selected Projects & Research_
 
+- **💻 E-Commerce Platform:** React, ML, RPA | Intelligent recommendations and automation
+- **🖼️ Image Caption Generator:** Deep Learning (CNN + RNN)
+- **🌱 Plant Disease Detector:** FastAPI + React app with CNN-based classification
+- **🤖 CRM Automation Suite:** Custom bots, workflow integrations, and data visualization dashboards
+- **📱 Travelers Guide App & Botathon Prototypes:** Innovative solutions with Human-AI interaction
+
+_See my full [GitHub Portfolio](https://github.com/AyushKatiya20322)_
+
+---
+
+## 🎓 Education
+
+- **M.S., Robotics & Autonomous Systems (AI), Arizona State University, USA (2025–2027)**
+- **B.Tech, Artificial Intelligence & Data Science, 8.07/10, Acropolis Inst. of Technology, Indore (2020–2024)**
+- **Senior Secondary (PCM), SICA School, Indore (78.8%)**
+
+---
+
+## 🏆 Certifications
+
+- **MathWorks Certified MATLAB Associate** | Advanced Deep Learning | Simulink
+- **AWS Certified Cloud Practitioner**
+- **Palo Alto Networks Cybersecurity Foundation**
+- **Microsoft AI Classroom Series**
+- **Blockchain & RPA Development (UIPath Academy, FIIT Internship)**
+- **Multiple Letters of Recommendation (Finlatics, ArtifIntel)**
+
+---
+
+## 🧑‍💻 Technical Prowess
+
+**Languages/Frameworks:** Python, Java, JavaScript, C/C++, ReactJS, FastAPI, NodeJS, Redux, HTML5, CSS3, Tailwind, Bootstrap, NextJS, Material UI  
+**Data Science & AI:** PyTorch, TensorFlow, MATLAB, Pandas, Scikit-learn, Power BI  
+**Databases/DevOps:** MongoDB, MySQL, Docker, Git, AWS  
+**Design & Multimedia:** Adobe Photoshop, Illustrator, InDesign, Premiere, Digital Illustration, Social Content  
+**Automation:** RPA, UI Path, Custom Bot Development  
+**Platforms:** Linux, Windows, VSCode, Jupyter
+
+---
+
+## 👑 Leadership & Professional Strengths
+
+- Public & NDA Client Solutions
+- Cross-functional Teamwork in Global Environments
+- Rapid Prototyping, Problem-Solving & Creative Ideation
+- Multicultural Communication & Project Delivery
+- Confidentiality & Professional Ethics
+
+---
+
+## 🌟 Beyond Code
+
+- **Hobbies:** Guitar, Reading, Meditation, Fitness, Cooking
+- **Learning:** Dart, Golang, Advanced Cloud & ML Ops
+- **Interests:** Digital Art, Robotics, Startup Culture, Human-AI Collaboration
+
+---
+
+## 🦄 Let's Build the Future!
+
+- 🌍  **Based in:** India — Tempe, AZ, USA (travel/flexible)
+- 📫  **Email:** [ayushkatiya@gmail.com](mailto:ayushkatiya@gmail.com)
+- 💼  **Portfolio:** [Behance](https://www.behance.net/ayushkatiya) | [Freelancer](http://www.freelancer.com/u/ayushkatiya2003)
+- 👨‍💻  **GitHub:** [AyushKatiya20322](https://github.com/AyushKatiya20322)
+- 🔗  **LinkedIn:** [in/ayushkatiya](https://linkedin.com/in/ayushkatiya)
+
+---
+
+## 🏅 GitHub Badges
 <a href="http://www.github.com/AyushKatiya20322"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushKatiya20322&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/AyushKatiya20322">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKatiya20322&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/>
+</a>
 
+---
 
-<a href="https://github.com/AyushKatiya20322" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKatiya20322&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+💬 _I'm always open for exciting full stack, AI, or automation collaborations! Let's create something awesome together._
+
